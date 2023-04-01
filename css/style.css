@@ -13,7 +13,7 @@ td a:hover {
     color: grey;
 }
 
-.menu, #sectionterror, #sectionaccion, #sectionsupervivencia, #sectioncarreras, #sectionfreetoplay, #sectionmundoabierto{
+#menu, #sectionterror, #sectionaccion, #sectionsupervivencia, #sectioncarreras, #sectionfreetoplay, #sectionmundoabierto{
     display: block;
     width: 100%;
     height: 100%;
@@ -24,7 +24,7 @@ td a:hover {
     display:none;
 }
 
-.menu li, #sectionterror li, #sectionaccion li, #sectionsupervivencia li, #sectioncarreras li, #sectionfreetoplay li, #sectionmundoabierto li {
+#menu li, #sectionterror li, #sectionaccion li, #sectionsupervivencia li, #sectioncarreras li, #sectionfreetoplay li, #sectionmundoabierto li {
     display: inline-block;
     list-style: none;
     text-decoration: none;
